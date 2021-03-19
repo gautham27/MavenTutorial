@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="15" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-19T20:45:26 IST" name="TestAll" finished-at="2021-03-19T20:45:26 IST" duration-ms="37">
+    <groups>
+      <group name="pass">
+        <method signature="TestNG4.passTC1()[pri:0, instance:TechM.TestNG.TestNG4@670002]" name="passTC1" class="TechM.TestNG.TestNG4"/>
+        <method signature="TestNG4.passTC2()[pri:0, instance:TechM.TestNG.TestNG4@670002]" name="passTC2" class="TechM.TestNG.TestNG4"/>
+      </group> <!-- pass -->
+    </groups>
+    <test started-at="2021-03-19T20:45:26 IST" name="test8" finished-at="2021-03-19T20:45:26 IST" duration-ms="37">
+      <class name="TechM.TestNG.check">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TechM.TestNG.check@433d61fb]" started-at="2021-03-19T20:45:26 IST" name="beforeTest" finished-at="2021-03-19T20:45:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@433d61fb]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test1(org.testng.ITestContext)[pri:0, instance:TechM.TestNG.check@433d61fb]" started-at="2021-03-19T20:45:26 IST" name="Test1" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1ded539c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@433d61fb]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test2()[pri:0, instance:TechM.TestNG.check@433d61fb]" started-at="2021-03-19T20:45:26 IST" name="Test2" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- TechM.TestNG.check -->
+    </test> <!-- test8 -->
+    <test started-at="2021-03-19T20:45:26 IST" name="test7" finished-at="2021-03-19T20:45:26 IST" duration-ms="37">
+      <class name="TechM.TestNG.check">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TechM.TestNG.check@48aaecc3]" started-at="2021-03-19T20:45:26 IST" name="beforeTest" finished-at="2021-03-19T20:45:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@48aaecc3]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test1(org.testng.ITestContext)[pri:0, instance:TechM.TestNG.check@48aaecc3]" started-at="2021-03-19T20:45:26 IST" name="Test1" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@aa80150]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@48aaecc3]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test2()[pri:0, instance:TechM.TestNG.check@48aaecc3]" started-at="2021-03-19T20:45:26 IST" name="Test2" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- TechM.TestNG.check -->
+    </test> <!-- test7 -->
+    <test started-at="2021-03-19T20:45:26 IST" name="test3" finished-at="2021-03-19T20:45:26 IST" duration-ms="37">
+      <class name="TechM.TestNG.check">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TechM.TestNG.check@6b19b79]" started-at="2021-03-19T20:45:26 IST" name="beforeTest" finished-at="2021-03-19T20:45:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@6b19b79]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test1(org.testng.ITestContext)[pri:0, instance:TechM.TestNG.check@6b19b79]" started-at="2021-03-19T20:45:26 IST" name="Test1" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@68e64c56]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@6b19b79]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test2()[pri:0, instance:TechM.TestNG.check@6b19b79]" started-at="2021-03-19T20:45:26 IST" name="Test2" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- TechM.TestNG.check -->
+    </test> <!-- test3 -->
+    <test started-at="2021-03-19T20:45:26 IST" name="test9" finished-at="2021-03-19T20:45:26 IST" duration-ms="37">
+      <class name="TechM.TestNG.check">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TechM.TestNG.check@4ddced80]" started-at="2021-03-19T20:45:26 IST" name="beforeTest" finished-at="2021-03-19T20:45:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@4ddced80]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test1(org.testng.ITestContext)[pri:0, instance:TechM.TestNG.check@4ddced80]" started-at="2021-03-19T20:45:26 IST" name="Test1" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b63ac87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:TechM.TestNG.check@4ddced80]" started-at="2021-03-19T20:45:26 IST" name="Test2" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@4ddced80]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- TechM.TestNG.check -->
+    </test> <!-- test9 -->
+    <test started-at="2021-03-19T20:45:26 IST" name="test4" finished-at="2021-03-19T20:45:26 IST" duration-ms="36">
+      <class name="TechM.TestNG.check">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TechM.TestNG.check@d4342c2]" started-at="2021-03-19T20:45:26 IST" name="beforeTest" finished-at="2021-03-19T20:45:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@d4342c2]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test1(org.testng.ITestContext)[pri:0, instance:TechM.TestNG.check@d4342c2]" started-at="2021-03-19T20:45:26 IST" name="Test1" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6dc0af24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:TechM.TestNG.check@d4342c2]" started-at="2021-03-19T20:45:26 IST" name="Test2" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TechM.TestNG.check@d4342c2]" started-at="2021-03-19T20:45:26 IST" name="beforeMethod" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- TechM.TestNG.check -->
+    </test> <!-- test4 -->
+    <test started-at="2021-03-19T20:45:26 IST" name="test5" finished-at="2021-03-19T20:45:26 IST" duration-ms="37">
+      <class name="TechM.TestNG.TestNG4">
+        <test-method signature="passTC1()[pri:0, instance:TechM.TestNG.TestNG4@670002]" started-at="2021-03-19T20:45:26 IST" name="passTC1" finished-at="2021-03-19T20:45:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTC1 -->
+        <test-method is-config="true" signature="beforePassGroup()[pri:0, instance:TechM.TestNG.TestNG4@670002]" started-at="2021-03-19T20:45:26 IST" name="beforePassGroup" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePassGroup -->
+        <test-method signature="passTC2()[pri:0, instance:TechM.TestNG.TestNG4@670002]" started-at="2021-03-19T20:45:26 IST" name="passTC2" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTC2 -->
+        <test-method is-config="true" signature="afterPassGroup()[pri:0, instance:TechM.TestNG.TestNG4@670002]" started-at="2021-03-19T20:45:26 IST" name="afterPassGroup" finished-at="2021-03-19T20:45:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterPassGroup -->
+      </class> <!-- TechM.TestNG.TestNG4 -->
+    </test> <!-- test5 -->
+  </suite> <!-- TestAll -->
+</testng-results>
